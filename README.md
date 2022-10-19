@@ -1,6 +1,12 @@
 # Talks
 Talks given at seminars and conferences (reverse chronological order)
 
+- [Quantum betting tasks](https://github.com/paulskrzypczyk/Talks/blob/master/Quantum%20Betting.pdf)
+Talk given at UCL as a seminar to the group of J. Oppenheim, and again at [Third Kyoto Workshop on Quantum Information, Computation, and Foundations](https://www2.yukawa.kyoto-u.ac.jp/~qicf22/) about the work [Characterisation of quantum betting tasks in terms of Arimoto mutual information](https://doi.org/10.1103/PRXQuantum.3.020366) in collaboration with Andres Ducuara.
+
+-[Using one measurement to reproduce another](https://github.com/paulskrzypczyk/Talks/blob/master/Measurement%20Reproduction.pdf)
+Talk given at CIFAR Quantum Information Science program meeting about the work [How to use arbitrary measuring devices to perform almost perfect measurements](https://doi.org/10.48550/arXiv.2203.02593) in collaboration with Noah Linden. 
+
 - [All states are universal catalysts in quantum thermodynamics](https://github.com/paulskrzypczyk/Talks/blob/master/Tiqur%202021%20Universal%20Catalysts.pdf)
 Talk given at [Thermodynamics and Information in the Quantum Regime (TIQuR 2021)](https://www.tiqur2021.com/home) about the [work (with the same title)](https://doi.org/10.1103/PhysRevX.11.011061) in collaboration with Patryk Lipka-Bartosik. 
 
