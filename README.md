@@ -1,6 +1,9 @@
 # Talks
 Talks given at seminars and conferences (reverse chronological order)
 
+- [Maxwell's Demon walks into Wall Street](https://github.com/paulskrzypczyk/Talks/blob/master/Maxwell%20Demon%20Talk.pdf)
+Talk given at Bristol group meeting about [Maxwell's Demon walks into Wall Street: Stochastic Thermodynamics meets Expected Utility Theory](https://arxiv.org/abs/2306.00449) in collaboration with Andres Ducuara, Francesco Buscemi, Peter Sidajaya and Valerio Scarani
+
 - [Quantum betting tasks](https://github.com/paulskrzypczyk/Talks/blob/master/Quantum%20Betting.pdf)  
 Talk given at UCL as a seminar to the group of J. Oppenheim, and again at [Third Kyoto Workshop on Quantum Information, Computation, and Foundations](https://www2.yukawa.kyoto-u.ac.jp/~qicf22/) about the work [Characterisation of quantum betting tasks in terms of Arimoto mutual information](https://doi.org/10.1103/PRXQuantum.3.020366) in collaboration with Andres Ducuara.
 
