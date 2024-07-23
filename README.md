@@ -1,6 +1,9 @@
 # Talks
 Talks given at seminars and conferences (reverse chronological order)
 
+- [Using one measurement to reproduce another](https://github.com/paulskrzypczyk/Talks/blob/master/Measurement%20Reproduction%20Emergence%20Of%20Classicality.pdf)
+Talk given at [Emergence of Classicality](https://www.tcd.ie/physics/conferences/new-perspectives-on-measurements-in-quantum-theory/) conference, Dublin, July 2024. This is an updated version of the previous talk from below.  
+
 - [Maxwell's Demon walks into Wall Street](https://github.com/paulskrzypczyk/Talks/blob/master/Maxwell%20Demon%20Talk.pdf)  
 Talk given at Bristol group meeting about [Maxwell's Demon walks into Wall Street: Stochastic Thermodynamics meets Expected Utility Theory](https://arxiv.org/abs/2306.00449) in collaboration with Andres Ducuara, Francesco Buscemi, Peter Sidajaya and Valerio Scarani
 
